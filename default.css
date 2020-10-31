@@ -441,7 +441,7 @@
 	.navbar {
   		overflow: hidden;
   		background-color: #151515;
-  		font-family: Arial;
+  		font-family: 'Open Sans', sans-serif;
 	}
 
 	/* Links inside the navbar */
