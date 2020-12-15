@@ -10,7 +10,10 @@ toc: true
 
 ## Reduced Order Modeling 
 
-I am interested in constructing projection-based reduced order models (pROMs) of complex engineered systems. Specifically, I focus on pROMs for heat transfer, fluids, and ablation physics. I contribute to the Pressio project which enables rapid deployment of pROM technology to a large number of application codes. I am currently working on nonlinear manifold learning methods and sampling methods for least squares regression problems arising from pROMs.
+I am interested in constructing projection-based reduced order models (pROMs) of complex engineered systems.
+Specifically, I focus on pROMs for heat transfer, fluids, and ablation physics.
+I contribute to the [Pressio](https://pressio.github.io/) project which enables rapid deployment of pROM technology to a large number of application codes.
+I am currently working on nonlinear manifold learning methods and sampling methods for least squares regression problems arising from pROMs.
 
 ## Computational Heat Transfer
 
@@ -18,4 +21,6 @@ I have a broad range of interests in the area of computational heat transfer, in
 
 ## Uncertainty Quantification
 
-PyNetUQ project for uncertainty propagation in large-scale networks. Each node in the network represents a potentiall complex multiphysics simulation (or a surrogate model thereof).
+I am the lead developer for the [PyNetUQ](https://jtencer.github.io/PyNetUQ/) project for uncertainty propagation in large-scale networks.
+Each node in the network represents a potentiall complex multiphysics simulation (or a surrogate model thereof).
+The advantages of decomposing models in this way are directly tying component/subassembly level validation data to system level model predictions, reducing model development time by enabling parallel development of component/subassembly models, and improving final design quality by allowing UQ to be incorporated earlier in the design process.
