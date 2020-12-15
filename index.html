@@ -1,150 +1,43 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
+---
+permalink: /home/
+layout: splash
 
-Name       : Soft Hued 
-Description: A two-column, fixed-width design with dark color scheme.
-Version    : 1.0
-Released   : 20130831
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/EN091214_fireball.jpg
+  actions:
+    - label: "About"
+      url: "/about/"
+excerpt: "A staff member at Sandia National Laboratories in Albuquerque, NM."
+intro: 
+  - excerpt: "Current Research Interests"
 
--->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title></title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" />
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+feature_row:
+  - image_path: assets/images/vorticity_cropped.png
+    alt: "Reduced Order Modeling"
+    title: "Reduced Order Modeling"
+    excerpt: "Application of projection-based reduced-order modeling techniques to challenging multiscale multiphysics simulations <br><br> Model reduction algorithm and methods development <br><br> Nonlinear manifold learning techniques"
+    url: "/research/#reduced-order-modeling"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/wave_cropped.png
+    alt: "Uncertainty Quantification"
+    title: "Uncertainty Quantification"
+    excerpt: "Uncertainty propagation in large-scale networks <br><br> Stochastic partial differential equations"
+    url: "/research/#uncertainty-quantification"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/ablation_cropped.png
+    alt: "Computational Heat Transfer"
+    title: "Computational Heat Transfer"
+    excerpt: "Large-scale high-fidelity simulations of complex engineered systems <br><br> Numerical methods <br><br> Multiphysics coupling <br><br> Eulerian and Lagrangian methods for multiphase flows"
+    url: "/research/#computational-heat-transfer"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
 
-<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
 
-</head>
-<body>
-<div id="header-wrapper">
-	<div id="header" class="container">
-                <div id="logo">
-                        <h1><a href="Contact.html">John Tencer</a></h1>
-                </div>
+{% include feature_row id="intro" type="center" %}
 
- 		<div class="navbar">
-			<a href="Contact.html" title="">Contact</a>
-			<a href="Pubs.html" title="">Publications</a>
-  			<div class="dropdown">
-    				<button class="dropbtn">Research Interests
-      					<i class="fa fa-caret-down"></i>
-    				</button>
-    				<div class="dropdown-content">
-					<a href="CHT.html">Computational Heat Transfer</a>
-                                        <a href="ROM.html">Reduced Order Modeling</a>
-                                        <a href="UQ.html">Uncertainty Quantification</a>
-    				</div>
-  			</div>
-			<a href="index.html" title="">Home</a>
-		</div> 
-	</div>
-</div>
-<div id="featured">&nbsp;</div>
-<div id="wrapper">
-	<div id="page" class="container">
-		<div id="content">
-			<div class="title">
-				<h2>Current Projects</h2>
-				<span class="byline">What am I working on?</span> </div>
-			<!--img src="images/karman_vorticity.png" width="700" alt="" class="image image-full" /!-->
-			<p>I have a number of research interests...</p>
-			<div id="onecolumn">
-			<ul class="style2">
-				<li>
-				<div class="title">
-					<h2>Computational Heat Transfer</h2>
-				</div>
-				<p>Large-scale high-fidelity simulations of complex engineered systems</p>
-				<p>Numerical methods</p>
-				<p>Multiphysics coupling</p>
-				<p>Eulerian and Lagrangian methods for multiphase flows</p>
-				</li>
-				<li>
-				<div class="title">
-                                        <h2>Reduced Order Modeling</h2>
-                                </div>
-                                <p>Application of projection-based reduced-order modeling techniques to challenging multiscale multiphysics simulations</p>
-				<p>Model reduction algorithm and methods development</p>
-				<p>Nonlinear manifold learning techniques</p>
-				</li>
-				<li>
-                                <div class="title">
-                                        <h2>Uncertainty Quantification</h2>
-                                </div>
-				<p>Uncertainty propagation in large-scale networks</p>
-                                <p>Stochastic partial differential equations</p>
-                                </li>
-                        </ul>
-			</div>
-		</div>
-		<div id="sidebar">
-			<ul class="style1">
-				<li class="first">
-					<h3>About Me</h3>
-					<p>I am a staff member at Sandia National Laboratories in Albuquerque, NM.</p>
-				</li>
-				<li>
-					<h3>Education</h3>
-					<h4> <i class="fa fa-graduation-cap"></i> PhD in Mechanical Engineering, 2013</h4> 
-					<i class="fa fa-fw"></i> The University of Texas, Austin
-
-					<h4> <i class="fa fa-graduation-cap"></i> MS in Mechanical Engineering, 2011</h4>
-                                        <i class="fa fa-fw"></i> The University of Texas, Austin
-
-					<h4> <i class="fa fa-graduation-cap"></i> BS in Mechanical Engineering, 2009</h4>
-                                        <i class="fa fa-fw"></i> The University of Tennessee, Knoxville 
-				</li>
-				<li>
-					<h3>Professional Society Involvement</h3>
-					<p>I am actively involved with <a href="https://www.asme.org/">ASME</a> and <a href="https://www.astfe.org/">ASTFE</a></p>
-				</li>
-			</ul>
-			<div id="stwo-col">
-				<div class="sbox1">
-					<img src="images/presentations.png" width="210" height="210" alt="" class="image image-full" />
-					<h2>Recent or Upcoming Talks</h2>
-					<ul class="style2">
-					<p>On hold due to covid-19</p>
-					</ul>
-				</div>
-				<div class="sbox2">
-					<img src="images/publications.jpg" width="210" height="210" alt="" class="image image-full" />
-					<h2>Selected Publications</h2>
-					<ul class="style2">
-					<li><a href="https://doi.org/10.1115/1.4037098">Accelerated Solution of Discrete Ordinates Approximation to the Boltzmann Transport Equation for a Gray Absorbing–Emitting Medium Via Model Reduction</a></li>
-					<li><a href="https://doi.org/10.1103/PhysRevE.95.012118">Percolation of binary disk systems: Modeling and theory</a></li>
-					<li><a href="https://doi.org/10.1115/1.4033699">Ray Effect Mitigation Through Reference Frame Rotation</a></li>
-					<li><a href="https://doi.org/10.1038/srep41251">Photoacoustic Sounds from Meteors</a></li>
-					<li><a href="https://arxiv.org/abs/2006.06154">A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations</a></li>
-					<li><a href="https://arxiv.org/abs/2009.11742">A compute-bound formulation of Galerkin model reduction for linear time-invariant dynamical systems</a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<div id="footer" class="container">
-	<div>
-		<header class="title">
-		<ul class="contact">
-			<li><a href="https://scholar.google.com/citations?user=M6AwtC4AAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a></li>
-			<li><a href="https://www.researchgate.net/profile/John_Tencer"><i class="ai ai-researchgate-square ai-3x"></i></a></li>
-			<li><a href="https://stackoverflow.com/users/10553098/john?tab=profile"><i class="ai ai-stackoverflow-square ai-3x"></i></a></li>			
-			<li><a href="https://orcid.org/0000-0003-1625-5887"><i class="ai ai-orcid-square ai-3x"></i></a></li>
-		</ul>
-	</div>
-</div><div id="copyright" class="container">
-	<p>&copy; John Tencer. All rights reserved. | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
-</div>
-</body>
-</html>
+{% include feature_row %}

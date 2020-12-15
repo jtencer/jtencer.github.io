@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Research Interests"
+    url: /research/
+
+
