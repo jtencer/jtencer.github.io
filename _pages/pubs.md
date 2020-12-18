@@ -26,7 +26,7 @@ J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use
 
 J. Tencer and J. Howell, “A Multi-Source Full Spectrum K-Distribution Method for 1-D Inhomogeneous Media,” Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 129, 2013.
 
-### Conference Proceedings
+### Refereed Conference Proceedings
 
 M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, M. Howard, “Projection-based model reduction for finite-element simulations of thermal protection systems,” 2021 AIAA SciTech Forum, January 2021.
 
@@ -50,7 +50,7 @@ J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use
 
 ### Preprints
 
-J. Tencer and K. Potter, “Enabling Nonlinear Manifold Projection Reduced-Order Models by Extending Convolutional Neural Networks to Unstructured Data”, SIAM Journal on Scientific Computing, in review.
+J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, in review.
 
 F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” SIAM Journal on Scientific Computing, in review.
 
