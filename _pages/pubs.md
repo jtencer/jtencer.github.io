@@ -54,6 +54,6 @@ J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinea
 
 F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” SIAM Journal on Scientific Computing, in review.
 
-J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Revie E, in review.
+J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Revie E, accepted.
 
 A.L. Brown, F. Pierce, and J. Tencer, “A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup,” International Journal of Multiphase Flow, in review.
