@@ -22,7 +22,7 @@ J. Tencer, “Ray effect mitigation through reference frame rotation,” ASME Jo
 
 J. Tencer and J. Howell, “Coupling radiative heat transfer in participating media with other heat transfer modes,” Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 38, no. 5, 2016.  [LINK](JBSME2016)
 
-J. Tencer and J. Howell, “Quantification of model-form uncertainty in the correlated-k distribution method for radiation heat transfer,” Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 143, 2014.
+J. Tencer and J. Howell, “[Quantification of model-form uncertainty in the correlated-k distribution method for radiation heat transfer](JQSRT2014),” Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 143, 2014.
 
 J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use with the multi-source k-distribution method for inhomogeneous media,” ASME Journal of Heat Transfer, vol. 136, no. 6, 2014.
 
