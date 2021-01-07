@@ -14,7 +14,7 @@ J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolat
 
 J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated Solution of Discrete Ordinates Approximation to the Boltzmann Transport Equation for a Gray Absorbing–Emitting Medium Via Model Reduction," ASME Journal of Heat Transfer, vol. 139, no. 12, 2017.  [LINK](JHT2017)
 
-R. Spalding, J. Tencer, W. Sweatt, B. Conley, R. Hogan, M. Boslough, and G. Gonzales, “Photoacoustic Sounds from Meteors,” Nature Scientific Reports, vol. 7, 2017.
+R. Spalding, J. Tencer, W. Sweatt, B. Conley, R. Hogan, M. Boslough, and G. Gonzales, “Photoacoustic Sounds from Meteors,” Nature Scientific Reports, vol. 7, 2017.  [LINK](SREP2017)
 
 K. Meeks, J. Tencer, and M, Pantoya, " Percolation of binary disk systems: Modeling and theory,” Physical Review E, vol. 95, no. 1, 2017.
 
