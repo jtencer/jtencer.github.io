@@ -12,7 +12,7 @@ toc: true
 
 J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Review E, accepted.  [LINK](PRE2021)
 
-J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated solution of discrete ordinates approximation to the Boltzmann transport equation via model reduction," ASME Journal of Heat Transfer, vol. 139, no. 12, 2017.
+J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated Solution of Discrete Ordinates Approximation to the Boltzmann Transport Equation for a Gray Absorbing–Emitting Medium Via Model Reduction," ASME Journal of Heat Transfer, vol. 139, no. 12, 2017.  [LINK](JHT2017)
 
 R. Spalding, J. Tencer, W. Sweatt, B. Conley, R. Hogan, M. Boslough, and G. Gonzales, “Photoacoustic Sounds from Meteors,” Nature Scientific Reports, vol. 7, 2017.
 
