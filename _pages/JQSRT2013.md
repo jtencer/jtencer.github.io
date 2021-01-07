@@ -7,7 +7,7 @@ toc: true
 ---
 
 John Tencer and Jack Howell  
-Journal of Quantitative Spectroscopy and Radiative Transfer (2014)  
+Journal of Quantitative Spectroscopy and Radiative Transfer (2013)  
 [View at Publisher](https://www.sciencedirect.com/science/article/pii/S0022407313002914)  
 
 ### Abstract
