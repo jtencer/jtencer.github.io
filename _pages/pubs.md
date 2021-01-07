@@ -10,7 +10,7 @@ toc: true
 
 ### Journal Articles
 
-J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Review E, accepted.
+J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Review E, accepted.  [LINK](PRE2021)
 
 J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated solution of discrete ordinates approximation to the Boltzmann transport equation via model reduction," ASME Journal of Heat Transfer, vol. 139, no. 12, 2017.
 
