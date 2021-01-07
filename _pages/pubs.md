@@ -16,11 +16,11 @@ J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated Solution of Discret
 
 R. Spalding, J. Tencer, W. Sweatt, B. Conley, R. Hogan, M. Boslough, and G. Gonzales, “Photoacoustic Sounds from Meteors,” Nature Scientific Reports, vol. 7, 2017.  [LINK](SREP2017)
 
-K. Meeks, J. Tencer, and M, Pantoya, " Percolation of binary disk systems: Modeling and theory,” Physical Review E, vol. 95, no. 1, 2017.
+K. Meeks, J. Tencer, and M, Pantoya, " Percolation of binary disk systems: Modeling and theory,” Physical Review E, vol. 95, no. 1, 2017.  [LINK](PRE2017)
 
-J. Tencer, “Ray effect mitigation through reference frame rotation,” ASME Journal of Heat Transfer, vol. 138, no. 11, 2016.
+J. Tencer, “Ray effect mitigation through reference frame rotation,” ASME Journal of Heat Transfer, vol. 138, no. 11, 2016.  [LINK](JHT2016)
 
-J. Tencer and J. Howell, “Coupling radiative heat transfer in participating media with other heat transfer modes,” Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 38, no. 5, 2016.
+J. Tencer and J. Howell, “Coupling radiative heat transfer in participating media with other heat transfer modes,” Journal of the Brazilian Society of Mechanical Sciences and Engineering, vol. 38, no. 5, 2016.  [LINK](JBSME2016)
 
 J. Tencer and J. Howell, “Quantification of model-form uncertainty in the correlated-k distribution method for radiation heat transfer,” Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 143, 2014.
 
