@@ -1,0 +1,15 @@
+---
+permalink: /pubs/SISCPreprintA/
+title: "A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations"
+excerpt: "A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations"
+
+toc: true
+---
+
+John Tencer and Kevin Potter   
+Preprint  
+[View on Arxiv](https://arxiv.org/abs/2006.06154)  
+
+### Abstract
+
+We propose a nonlinear manifold learning technique based on deep convolutional autoencoders that is appropriate for model order reduction of physical systems in complex geometries. Convolutional neural networks have proven to be highly advantageous for compressing data arising from systems demonstrating a slow-decaying Kolmogorov n-width. However, these networks are restricted to data on structured meshes. Unstructured meshes are often required for performing analyses of real systems with complex geometry. Our custom graph convolution operators based on the available differential operators for a given spatial discretization effectively extend the application space of deep convolutional autoencoders to systems with arbitrarily complex geometry that are typically discretized using unstructured meshes. We propose sets of convolution operators based on the spatial derivative operators for the underlying spatial discretization, making the method particularly well suited to data arising from the solution of partial differential equations. We demonstrate the method using examples from heat transfer and fluid mechanics and show better than an order of magnitude improvement in accuracy over linear methods.

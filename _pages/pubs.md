@@ -52,8 +52,8 @@ J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use
 
 ### Preprints
 
-J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, in review.
+J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, in review.  [LINK](SISCPreprintA)
 
-F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” SIAM Journal on Scientific Computing, in review.
+F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” SIAM Journal on Scientific Computing, in review.  [LINK](SISCPreprintB)
 
 A.L. Brown, F. Pierce, and J. Tencer, “A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup,” International Journal of Multiphase Flow, in review.
