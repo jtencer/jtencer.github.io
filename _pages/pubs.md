@@ -32,23 +32,23 @@ J. Tencer and J. Howell, “A Multi-Source Full Spectrum K-Distribution Method f
 
 M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, M. Howard, “Projection-based model reduction for finite-element simulations of thermal protection systems,” 2021 AIAA SciTech Forum, January 2021.
 
-J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Reduced order modeling applied to the discrete ordinates method for radiation heat transfer in participating media,” Proceedings of ASME 2016 Heat Transfer Summer Conference, vol. 2, Washington, DC, July 2016.
+J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Reduced order modeling applied to the discrete ordinates method for radiation heat transfer in participating media,” Proceedings of ASME 2016 Heat Transfer Summer Conference, vol. 2, Washington, DC, July 2016.  [LINK](SHTC2016)
 
-J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Augmented quadratures for the discrete ordinates method using reduced order modeling approaches,” Proceedings of the First Pacific Rim Thermal Engineering Conference, Waikoloa Village, HI, March 2016.
+J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Augmented quadratures for the discrete ordinates method using reduced order modeling approaches,” Proceedings of the First Pacific Rim Thermal Engineering Conference, Waikoloa Village, HI, March 2016.  [LINK](PRTEC2016)
 
-J. Tencer, T. Okusanya, and A. Hetzler, “A set of manufactured solutions for coupled radiation (SPn) and conduction problems,” Proceedings of the 1st Thermal and Fluid Engineering Summer Conference, vol. 4, New York, NY, August 2015.
+J. Tencer, T. Okusanya, and A. Hetzler, “A set of manufactured solutions for coupled radiation (SPn) and conduction problems,” Proceedings of the 1st Thermal and Fluid Engineering Summer Conference, vol. 4, New York, NY, August 2015.  [LINK](TFESC2015)
 
-J. Tencer, “A comparison of angular discretization techniques for the radiative transport equation,” Proceedings of ASME 2015 International Mechanical Engineering Congress and Exposition, vol. 8B, Houston, TX, November 2015.
+J. Tencer, “A comparison of angular discretization techniques for the radiative transport equation,” Proceedings of ASME 2015 International Mechanical Engineering Congress and Exposition, vol. 8B, Houston, TX, November 2015.  [LINK](IMECE2015)
 
-J. Tencer, “The impact of reference frame orientation on discrete ordinates solutions in the presence of ray effects and a related mitigation technique,” Proceedings of ASME 2014 International Mechanical Engineering Congress and Exposition, vol. 8A, Montreal, QC, November 2014.
+J. Tencer, “The impact of reference frame orientation on discrete ordinates solutions in the presence of ray effects and a related mitigation technique,” Proceedings of ASME 2014 International Mechanical Engineering Congress and Exposition, vol. 8A, Montreal, QC, November 2014.  [LINK](IMECE2014)
 
-J. Tencer and J. Howell, “A parametric study of the accuracy of several radiative transport solution methods for a set of 2-D benchmark problems,” Proceedings of ASME 2013 Heat Transfer Summer Conference, vol. 1, July 2013.
+J. Tencer and J. Howell, “A parametric study of the accuracy of several radiative transport solution methods for a set of 2-D benchmark problems,” Proceedings of ASME 2013 Heat Transfer Summer Conference, vol. 1, July 2013.  [LINK](SHTC2013)
 
-J. Tencer and J. Howell, “Quantification of model-form uncertainty in the correlated-k distribution method for radiation heat transfer,” RAD-13. Proceedings of the 7th International Symposium on Radiative Transfer, Kusadasi, Turkey, June 2013.
+J. Tencer and J. Howell, “Quantification of model-form uncertainty in the correlated-k distribution method for radiation heat transfer,” RAD-13. Proceedings of the 7th International Symposium on Radiative Transfer, Kusadasi, Turkey, June 2013.  [LINK](RAD2013)
 
-J. Tencer and J. Howell, “A multi-source full spectrum k-distribution method for 1-D inhomogeneous media,” Eurotherm conference no. 95: Computational thermal radiation in participating media IV, Nancy, France, April 2012.
+J. Tencer and J. Howell, “A multi-source full spectrum k-distribution method for 1-D inhomogeneous media,” Eurotherm conference no. 95: Computational thermal radiation in participating media IV, Nancy, France, April 2012.  [LINK](EuroTherm2012)
 
-J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use with the multi-source k-distribution method for inhomogeneous media,” Proceedings of ASME 2012 Heat Transfer Summer Conference, vol. 1, Rio Grande, PR, July 2012.
+J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use with the multi-source k-distribution method for inhomogeneous media,” Proceedings of ASME 2012 Heat Transfer Summer Conference, vol. 1, Rio Grande, PR, July 2012.  [LINK](SHTC2012)
 
 ### Preprints
 
