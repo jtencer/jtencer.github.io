@@ -34,6 +34,10 @@ J. Tencer and J. Howell, “A Multi-Source Full Spectrum K-Distribution Method f
 
 ### Refereed Conference Proceedings
 
+A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model for the melt and flow of aaluminum alloys in fires," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
+
+E.F. Rojas and J. Tencer, "Performance of iterative network uncertainty quantification for multicomponent system qualification," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
+
 M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, M. Howard, “Projection-based model reduction for finite-element simulations of thermal protection systems,” 2021 AIAA SciTech Forum, January 2021.  [LINK](AIAA2021)
 
 J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Reduced order modeling applied to the discrete ordinates method for radiation heat transfer in participating media,” Proceedings of ASME 2016 Heat Transfer Summer Conference, vol. 2, Washington, DC, July 2016.  [LINK](SHTC2016)
