@@ -1,5 +1,5 @@
 ---
-permalink: /pubs/SISCPreprintB/
+permalink: /pubs/CMAME2021/
 title: "A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems"
 excerpt: "A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems"
 
@@ -8,7 +8,8 @@ toc: true
 
 Francesco Rizzi, Eric Parish, Patrick Blonigan, and John Tencer  
 Preprint  
-[View on Arxiv](https://arxiv.org/abs/2009.11742)  
+[View at Publisher](https://www.sciencedirect.com/science/article/pii/S0045782521003042)  
+[View Preprint on Arxiv](https://arxiv.org/abs/2009.11742) 
 
 ### Abstract
 

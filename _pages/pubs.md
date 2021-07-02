@@ -10,6 +10,10 @@ toc: true
 
 ### Journal Articles
 
+J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, accepted.  [LINK](SISC2021)
+
+F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” Computer Methods in Applied Mechanics and Engineering, vol 384, 2021.  [LINK](CMAME2021)
+
 J. Tencer and K. M. Forsberg, “Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice,” Physical Review E, accepted.  [LINK](PRE2021)
 
 J. Tencer, K. Carlberg, M. Larsen and R. Hogan, "Accelerated Solution of Discrete Ordinates Approximation to the Boltzmann Transport Equation for a Gray Absorbing–Emitting Medium Via Model Reduction," ASME Journal of Heat Transfer, vol. 139, no. 12, 2017.  [LINK](JHT2017)
@@ -51,9 +55,5 @@ J. Tencer and J. Howell, “A multi-source full spectrum k-distribution method f
 J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use with the multi-source k-distribution method for inhomogeneous media,” Proceedings of ASME 2012 Heat Transfer Summer Conference, vol. 1, Rio Grande, PR, July 2012.  [LINK](SHTC2012)
 
 ### Preprints
-
-J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, in review.  [LINK](SISCPreprintA)
-
-F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” SIAM Journal on Scientific Computing, in review.  [LINK](SISCPreprintB)
 
 A.L. Brown, F. Pierce, and J. Tencer, “A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup,” International Journal of Multiphase Flow, in review.
