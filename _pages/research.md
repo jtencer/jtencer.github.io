@@ -22,5 +22,5 @@ I have a broad range of interests in the area of computational heat transfer, in
 ## Uncertainty Quantification
 
 I am the lead developer for the [PyNetUQ](https://jtencer.github.io/PyNetUQ/) project for uncertainty propagation in large-scale networks.
-Each node in the network represents a potentiall complex multiphysics simulation (or a surrogate model thereof).
+Each node in the network represents a potentially complex multiphysics simulation (or a surrogate model thereof).
 The advantages of decomposing models in this way are directly tying component/subassembly level validation data to system level model predictions, reducing model development time by enabling parallel development of component/subassembly models, and improving final design quality by allowing UQ to be incorporated earlier in the design process.
