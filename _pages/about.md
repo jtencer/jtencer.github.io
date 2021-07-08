@@ -21,7 +21,9 @@ The University of Tennessee, Knoxville
 
 ## <img src="/assets/icons/users.png" width="70" height="70" /> Professional Societies
 
-I am actively involved with [ASME](https://www.asme.org/) and [ASTFE](https://www.astfe.org/)
+I am actively involved with [ASME](https://www.asme.org/) and [ASTFE](https://www.astfe.org/).
+
+I am the current co-chair for the ASME K-20 (computational heat transfer) technical committee.
 
 ## <img src="/assets/icons/address-card.png" width="70" height="70" /> Contact
 
