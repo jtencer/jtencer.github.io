@@ -34,7 +34,7 @@ J. Tencer and J. Howell, “A Multi-Source Full Spectrum K-Distribution Method f
 
 ### Refereed Conference Proceedings
 
-A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model for the melt and flow of aaluminum alloys in fires," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
+A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model for the melt and flow of aluminum alloys in fires," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
 
 E.F. Rojas and J. Tencer, "Performance of iterative network uncertainty quantification for multicomponent system qualification," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
 
@@ -61,3 +61,11 @@ J. Tencer and J. Howell, “On multilayer modeling of radiative transfer for use
 ### Preprints
 
 A.L. Brown, F. Pierce, and J. Tencer, “A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup,” International Journal of Multiphase Flow, in review.
+
+### Technical Reports
+
+J. Tencer, A.L. Brown, J. Clemmer, E.M. Jones, D.R. Noble, A. Kucala, F. Pierce, "Novel Approaches for Modeling aluminum Melt and Relocation Supporting Weapon Safety Assessments," SAND2020-10703.
+
+J. Tencer, K.T. Carlberg, M.E. Larsen, R.E. Hogan, "Advanced Computational Methods for Thermal Radiative Transfer," SAND2016-10669.
+
+J. Tencer, R.L. Akau, D. Dobranich, A.L. Brown, A.B. Dodd, R.E. Hogan, T.O. Okusanya, L.M. Phinney, F. Pierce, "Addressing Modeling Requirements for Radiation Heat Transfer," SAND2014-19770.
