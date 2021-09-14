@@ -64,6 +64,8 @@ A.L. Brown, F. Pierce, and J. Tencer, “A Lennard-Jones Based Surface Tension A
 
 ### Technical Reports
 
+K. Hoffmeister, E. Zepper, A. Cruz-Cabrera, J. Wright, K. Smith, B.B. Schroeder, J. Tencer, and H. Silva, "Laser Analysis of Surface Emissivity: FY18 Report," SAND2021-7443.
+
 J. Tencer, A.L. Brown, J. Clemmer, E.M. Jones, D.R. Noble, A. Kucala, F. Pierce, "Novel Approaches for Modeling aluminum Melt and Relocation Supporting Weapon Safety Assessments," SAND2020-10703.
 
 J. Tencer, K.T. Carlberg, M.E. Larsen, R.E. Hogan, "Advanced Computational Methods for Thermal Radiative Transfer," SAND2016-10669.
