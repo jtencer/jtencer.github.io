@@ -38,7 +38,9 @@ A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model fo
 
 E.F. Rojas and J. Tencer, "Performance of iterative network uncertainty quantification for multicomponent system qualification," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
 
-M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, M. Howard, “Projection-based model reduction for finite-element simulations of thermal protection systems,” 2021 AIAA SciTech Forum, January 2021.  [LINK](AIAA2021)
+K. Potter, S. Sleder, M. Smith, S. Perera, A. Yilmaz, J. Tencer, "Parameterized Pseudo-Differential Operators for Graph Convolutional Neural Networks," Proceedings of 2021 International Conference on Computer Vision Workshops, Virtual, October 2021.
+
+M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, and M. Howard, “Projection-based model reduction for finite-element simulations of thermal protection systems,” 2021 AIAA SciTech Forum, January 2021.  [LINK](AIAA2021)
 
 J. Tencer, K. Carlberg, M. Larsen and R. Hogan, “Reduced order modeling applied to the discrete ordinates method for radiation heat transfer in participating media,” Proceedings of ASME 2016 Heat Transfer Summer Conference, vol. 2, Washington, DC, July 2016.  [LINK](SHTC2016)
 
