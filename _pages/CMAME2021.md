@@ -7,7 +7,7 @@ toc: true
 ---
 
 Francesco Rizzi, Eric Parish, Patrick Blonigan, and John Tencer  
-Preprint  
+Computer Methods in Applied Mechanics and Engineering (2021)  
 [View at Publisher](https://www.sciencedirect.com/science/article/pii/S0045782521003042)  
 [View Preprint on Arxiv](https://arxiv.org/abs/2009.11742) 
 
