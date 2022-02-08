@@ -10,7 +10,7 @@ toc: true
 
 ### Journal Articles
 
-J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM Journal on Scientific Computing, accepted.  [LINK](SISC2021)
+J. Tencer and K. Potter, “A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations”, SIAM J. Sci. Comput., 43(4), A2581–A2613.  [LINK](SISC2021)
 
 F. Rizzi, E. Parish, P. Blonigan, J. Tencer, “A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems,” Computer Methods in Applied Mechanics and Engineering, vol 384, 2021.  [LINK](CMAME2021)
 
