@@ -66,9 +66,15 @@ J. Tencer and J. Howell, "On multilayer modeling of radiative transfer for use w
 
 A.L. Brown, F. Pierce, and J. Tencer, "A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup," International Journal of Multiphase Flow, in review.
 
+J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASME Journal of Risk and Uncertainty, in preparation.
+
 ### Technical Reports
 
 K. Hoffmeister, E. Zepper, A. Cruz-Cabrera, J. Wright, K. Smith, B.B. Schroeder, J. Tencer, and H. Silva, "Laser Analysis of Surface Emissivity: FY18 Report," SAND2021-7443.
+
+J. Tencer, C. Hoang, E. Rojas, K. Irick, and B. Schroeder, "Network Uncertainty Quantification Methods with Reduced Order Models," SAND2021-13810.
+
+J. Tencer, P. Blonigan, M. Arienti, K. Potter, and E. Mussoni, "Reduced Order Modeling Approaches for Coupled Aerothermal Simulations for Reentry Trajectory Planning," SAND2021-14233.
 
 J. Tencer, A.L. Brown, J. Clemmer, E.M. Jones, D.R. Noble, A. Kucala, F. Pierce, "Novel Approaches for Modeling aluminum Melt and Relocation Supporting Weapon Safety Assessments," SAND2020-10703.
 
