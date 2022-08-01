@@ -10,6 +10,8 @@ toc: true
 
 ### Journal Articles
 
+A.L. Brown, F. Pierce, and J. Tencer, "A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup," Chemical Engineering Research and Design, 2022.  [LINK](CHERD2022)
+
 V. Brunini, E. Parish, J. Tencer, and F. Rizzi, "Projection-Based Model Reduction for Coupled Conduction - Enclosure Radiation Systems," ASME Journal of Heat Transfer, 2022.  [LINK](JHT2022)
 
 J. Tencer and K. Potter, "A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations," SIAM J. Sci. Comput., 43(4), A2581–A2613.  [LINK](SISC2021)
@@ -64,9 +66,7 @@ J. Tencer and J. Howell, "On multilayer modeling of radiative transfer for use w
 
 ### Preprints
 
-A.L. Brown, F. Pierce, and J. Tencer, "A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup," International Journal of Multiphase Flow, in review.
-
-J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASME Journal of Risk and Uncertainty, in preparation.
+J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASME Journal of Risk and Uncertainty, under revision.
 
 ### Technical Reports
 
