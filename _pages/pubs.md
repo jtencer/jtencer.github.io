@@ -3,20 +3,22 @@ permalink: /pubs/
 title: "Publications"
 excerpt: "List of publications."
 
-      
+
 last_modified_at: 2020-10-28T14:51:23-04:00
 toc: true
 ---
 
 ### Journal Articles
 
+J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, vol. 9, no. 2, 2023.  [LINK](https://asmedigitalcollection.asme.org/risk/article/9/2/021203/1146387)
+
 A.L. Brown, F. Pierce, and J. Tencer, "A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup," Chemical Engineering Research and Design, 2022.  [LINK](CHERD2022)
 
 V. Brunini, E. Parish, J. Tencer, and F. Rizzi, "Projection-Based Model Reduction for Coupled Conduction - Enclosure Radiation Systems," ASME Journal of Heat Transfer, 2022.  [LINK](JHT2022)
 
-J. Tencer and K. Potter, "A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations," SIAM J. Sci. Comput., 43(4), A2581–A2613.  [LINK](SISC2021)
+J. Tencer and K. Potter, "A Tailored Convolutional Neural Network for Nonlinear Manifold Learning of Computational Physics Data using Unstructured Spatial Discretizations," SIAM J. Sci. Comput., 43(4), A2581–A2613, 2021.  [LINK](SISC2021)
 
-F. Rizzi, E. Parish, P. Blonigan, J. Tencer, "A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems," Computer Methods in Applied Mechanics and Engineering, vol 384, 2021.  [LINK](CMAME2021)
+F. Rizzi, E. Parish, P. Blonigan, and J. Tencer, "A Compute-Bound Formulation of Galerkin Model Reduction for Linear Time-Invariant Dynamical Systems," Computer Methods in Applied Mechanics and Engineering, vol 384, 2021.  [LINK](CMAME2021)
 
 J. Tencer and K. M. Forsberg, "Postprocessing Techniques for Gradient Percolation Predictions on the Square Lattice," Physical Review E, vol. 103, no. 1, 2021.  [LINK](PRE2021)
 
@@ -38,11 +40,13 @@ J. Tencer and J. Howell, "A Multi-Source Full Spectrum K-Distribution Method for
 
 ### Refereed Conference Proceedings
 
-A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model for the melt and flow of aluminum alloys in fires," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
+P. Blonigan, J. Tencer, and F. Rizzi, "Projection-based Reduced-Order Models with Hyperreduction for Finite Element Simulations of Thermal Protection Systems," AIAA AVIATION 2023 Form, June 2023.
 
-E.F. Rojas and J. Tencer, "Performance of iterative network uncertainty quantification for multicomponent system qualification," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.  
+A.L. Brown, F. Pierce, D.R. Noble, A. Kucala, and J. Tencer, "Towards a model for the melt and flow of aluminum alloys in fires," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.
 
-K. Potter, S. Sleder, M. Smith, S. Perera, A. Yilmaz, J. Tencer, "Parameterized Pseudo-Differential Operators for Graph Convolutional Neural Networks," Proceedings of IEEE/CVF 2021 International Conference on Computer Vision Workshops, Virtual, October 2021.  [LINK](ICCV2021)
+E.F. Rojas and J. Tencer, "Performance of iterative network uncertainty quantification for multicomponent system qualification," Proceedings of ASME 2021 International Mechanical Engineering Congress and Exposition, Virtual, November 2021.
+
+K. Potter, S. Sleder, M. Smith, S. Perera, A. Yilmaz, and J. Tencer, "Parameterized Pseudo-Differential Operators for Graph Convolutional Neural Networks," Proceedings of IEEE/CVF 2021 International Conference on Computer Vision Workshops, Virtual, October 2021.  [LINK](ICCV2021)
 
 M. Arienti, P. Blonigan, F. Rizzi, J. Tencer, and M. Howard, "Projection-based model reduction for finite-element simulations of thermal protection systems," 2021 AIAA SciTech Forum, January 2021.  [LINK](AIAA2021)
 
@@ -64,9 +68,13 @@ J. Tencer and J. Howell, "A multi-source full spectrum k-distribution method for
 
 J. Tencer and J. Howell, "On multilayer modeling of radiative transfer for use with the multi-source k-distribution method for inhomogeneous media," Proceedings of ASME 2012 Heat Transfer Summer Conference, vol. 1, Rio Grande, PR, July 2012.  [LINK](SHTC2012)
 
+### Book Chapters
+
+T.M. Shead, I.K. Tezaur, W.L. Davis IV, M.L. Carlson, D.M. Dunlavy, E.J. Parish, P.J. Blonigan, J. Tencer, F. Rizzi, and H. Kolla, "A Novel In Situ Machine Learning Framework for Intelligent Data Capture and Event Detection," Machine Learning and Its Application to Reacting Flows: ML and Combustion,  Springer International Publishing, 2023.  [LINK](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_3)
+
 ### Preprints
 
-J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASME Journal of Risk and Uncertainty, under revision.
+J. Cocola, J. Tencer, F. Rizzi, E. Parish, and P. Blonigan, "Hyper-Reduced Autoencoders for Efficient and Accurate Nonlinear Model Reductions," [LINK](https://arxiv.org/abs/2303.09630)
 
 ### Technical Reports
 
