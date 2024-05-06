@@ -9,6 +9,10 @@ toc: true
 
 ### Journal Articles
 
+J. Clemmer, F. Pierce, T. O'Connor, T. Nevins, E. Jones, J. Lechman, and John Tencer, "A hybrid smoothed-particle hydrodynamics model of oxide skins on molten aluminum," Applied Mathematical Modelling, vol. 130, 2024.  [LINK](AMM2024)
+
+A. Runchal et. al, "In Memoriam: Professor Darrell W. Pepper–A Tribute to an Exceptional Engineering Educator and Researcher," Computational Thermal Sciences: An International Journal, vol. 16, no. 2, 2024.  [LINK](https://www.dl.begellhouse.com/journals/648192910890cd0e,5df3fe6226edf4b7,43139bd72171d163.html)
+
 J. Tencer, E. Rojas, and B. Schroeder, "Network Uncertainty Quantification for Analysis of Multi-Component Systems," ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part B: Mechanical Engineering, vol. 9, no. 2, 2023.  [LINK](https://asmedigitalcollection.asme.org/risk/article/9/2/021203/1146387)
 
 A.L. Brown, F. Pierce, and J. Tencer, "A Lennard-Jones Based Surface Tension Analogy Model for Liquid Breakup," Chemical Engineering Research and Design, 2022.  [LINK](CHERD2022)
@@ -72,6 +76,8 @@ J. Tencer and J. Howell, "On multilayer modeling of radiative transfer for use w
 T.M. Shead, I.K. Tezaur, W.L. Davis IV, M.L. Carlson, D.M. Dunlavy, E.J. Parish, P.J. Blonigan, J. Tencer, F. Rizzi, and H. Kolla, "A Novel In Situ Machine Learning Framework for Intelligent Data Capture and Event Detection," Machine Learning and Its Application to Reacting Flows: ML and Combustion,  Springer International Publishing, 2023.  [LINK](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_3)
 
 ### Preprints
+
+J. Bates, M. Jones, C. Dillon, and J. Tencer, "Comparison of Empirical and Analytical Eigenfunctions as Bases for Reduced Order Methods in Heat Transfer," [LINK](https://scholarsarchive.byu.edu/studentpub/377/)
 
 J. Cocola, J. Tencer, F. Rizzi, E. Parish, and P. Blonigan, "Hyper-Reduced Autoencoders for Efficient and Accurate Nonlinear Model Reductions," [LINK](https://arxiv.org/abs/2303.09630)
 
